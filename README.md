@@ -1,4 +1,4 @@
-# Hi, Na nga def, na I'm Birame Ndoye 👋
+# Hi, Na nga def, I'm Birame Ndoye 👋
 
 I'm studding computer science from Senegal🇸🇳
 
@@ -7,7 +7,7 @@ I'm studding computer science from Senegal🇸🇳
 - 👯 I’m looking to collaborate on any related stuff
 - 🤔 I’m looking for help with Google cloud
 - 💬 Ask me about Python, Java, C
-- 📫 How to reach me: https://twitter.com/emaribeyodn
+- 📫 How to reach me: [Twitter](https://twitter.com/emaribeyodn?ref_src=twsrc%5Etfw) - [LinkedIn]()
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
