@@ -1,6 +1,6 @@
 # Hi, Na nga def, I'm Birame Ndoye 👋
 
-I'm studding computer science from Senegal🇸🇳
+I'm studying computer science from Senegal🇸🇳
 
 - 🔭 I’m currently working on improving my knowledge 
 - 🌱 I’m currently learning Flutter
