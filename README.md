@@ -12,9 +12,9 @@
 - ⚡ Fun fact **I think I am foolish**
 
 <h3 align="left">👨‍🔧️ Languages and Tools:</h3>
-- Python, Javascript, Java, C, Dart 
-- Django, Scrapy, NextJs,
-- Docker, Linux, PostgreSQL,
+- Python, Javascript, Java, C, Dart
+- Django, Scrapy, NextJs
+- Docker, Linux, PostgreSQL
 
 <h3 align="left">⌨️ Stats:</h3>
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=emaribeyodn&show_icons=true&locale=en&layout=compact" alt="emaribeyodn" /></p>
